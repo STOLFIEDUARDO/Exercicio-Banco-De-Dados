@@ -1,0 +1,1 @@
+﻿SELECT AVG(especial_ataque) 'Média dos ataques especiais' FROM pokemons WHERE nome LIKE 'P%'
