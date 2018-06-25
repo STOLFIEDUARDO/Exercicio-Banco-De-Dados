@@ -1,0 +1,1 @@
+﻿SELECT altura, peso, (altura/peso*altura) 'IMC' FROM pokemons ORDER BY 'IMC' DESC;
