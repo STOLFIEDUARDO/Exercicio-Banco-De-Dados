@@ -1,1 +1,1 @@
-﻿SELECT altura, peso, (altura/peso*altura) FROM pokemons 
+﻿SELECT altura, peso, (peso/(altura*altura)) FROM pokemons 
