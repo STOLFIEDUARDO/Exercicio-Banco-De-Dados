@@ -1,0 +1,1 @@
+﻿SELECT ataque, defesa, especial_ataque, especial_defesa FROM pokemons
