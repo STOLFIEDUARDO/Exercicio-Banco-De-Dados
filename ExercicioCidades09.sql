@@ -1,0 +1,1 @@
+﻿SELECT cidade, LEN(cidade) 'Quantidade de caracteres' FROM cidades WHERE LEN (cidade) > 10;
