@@ -1,0 +1,1 @@
+﻿SELECT AVG(ataque) 'Média dos ataques' FROM pokemons;
