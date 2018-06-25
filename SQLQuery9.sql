@@ -1,0 +1,1 @@
+﻿SELECT nome, ataque, defesa, especial_ataque, especial_defesa FROM pokemons ORDER BY ataque;
