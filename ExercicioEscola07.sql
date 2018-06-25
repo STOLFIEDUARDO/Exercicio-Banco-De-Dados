@@ -1,0 +1,1 @@
+﻿SELECT nome, nota_1 FROM alunos WHERE nota_1 = (SELECT MIN(nota_1) FROM alunos)

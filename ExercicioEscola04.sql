@@ -1,0 +1,1 @@
+﻿SELECT COUNT(nome) FROM alunos WHERE signo = 'Peixes'
