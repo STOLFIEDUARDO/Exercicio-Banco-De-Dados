@@ -1,0 +1,1 @@
+﻿SELECT nome, ataque, categoria FROM pokemons ORDER BY ataque;
