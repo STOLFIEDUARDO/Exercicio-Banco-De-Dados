@@ -1,0 +1,1 @@
+﻿SELECT id, nome, codigo, altura, peso, hp, ataque, defesa, especial_ataque, especial_defesa, velocidade, descricao FROM pokemons
