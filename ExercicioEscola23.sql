@@ -1,0 +1,1 @@
+﻿SELECT nick, nota_4 FROM alunos WHERE nota_2 >=5 AND nota_2 <=5.99;

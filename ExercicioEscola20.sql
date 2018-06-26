@@ -1,0 +1,1 @@
+﻿SELECT nick, MONTH(data_nascimento)'mês de nascimento' FROM alunos WHERE MONTH(data_nascimento) > 6;
